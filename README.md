@@ -15,7 +15,7 @@ This is an application to track your exercise with view maps location.:
 
 ## System Requirement
 
-- Node.js v14.x
+- Node.js v14 or higher
 
 ## Instalation
 
