@@ -21,11 +21,11 @@ This is an application to track your exercise with view maps location.:
 
 1. Clone this repository:
    ```bash
-   git clone [url-repositori]
+   git clone https://github.com/adamanandas/mapty.git
    ```
 2. Go to project directory:
    ```bash
-   cd directory-name
+   cd mapty
    ```
 3. Install dependencies:
    ```bash
